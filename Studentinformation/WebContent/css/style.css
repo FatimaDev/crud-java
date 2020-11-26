@@ -1,0 +1,9 @@
+.navbarGlobal{
+	/* height:58px;
+	width:100%; */
+	background-color:#003049;
+}
+.container-fluid a{color:#fff;}
+.container-fluid a.hover{color:#888;}
+.container-fluid li>a:hover{background-color:#354f52;}
+.titleColor{color:#003049;}
